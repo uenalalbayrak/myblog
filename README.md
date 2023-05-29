@@ -4,3 +4,5 @@
 * Rails version: 7.0.1
 
 * Database: Postgresql
+
+* Tailwindcss
