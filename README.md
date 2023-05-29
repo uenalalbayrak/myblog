@@ -1,2 +1,2 @@
 # myblog
-Blog with Ror
+Ruby on Rails Guaides Blog App
