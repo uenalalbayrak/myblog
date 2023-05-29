@@ -1,2 +1,2 @@
 # myblog
-Ruby on Rails Guaides Blog App
+Ruby on Rails Guides Blog App
